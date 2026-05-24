@@ -1,4 +1,4 @@
-# CBC-Disease-Prediction-Aand-Blood-Analysis-System:
+# CBC-Disease-Prediction-and-Blood-Analysis-System:
 # Purpose of the Project:
 The main purpose of this project is to develop a simple and efficient healthcare web application that can analyze Complete Blood Count (CBC) values 
 identify possible abnormal blood conditions based on standard medical ranges. The system is designed to help users digitally enter blood parameters such as Hemoglobin, WBC, RBC, and Platelet counts and instantly receive basic health analysis results.
@@ -18,10 +18,9 @@ This project aims to simplify the process of CBC report evaluation by reducing m
 4. Platelet Count
 
 # Possible Health Conditions Detected:
-1. Possible Anemia
-2. High WBC Infection Risk
-3. Low WBC Count
-4. Low RBC Count
-5. Low Platelet Count
-6. High Platelet Count
-7. Normal Blood Conditions
+- Anemia
+- Polycythemia
+- Leukemia
+- Thrombocytopenia
+- Infection / Leukocytosis
+- Normal Blood Condition
