@@ -15,7 +15,7 @@ This project aims to simplify the process of CBC report evaluation by reducing m
 2. White Blood Cell (WBC) Count
 3. Red Blood Cell (RBC) Count
 4. Platelet Count
-
+ 
 # Possible Health Conditions Detected:
 1. Possible Anemia
 2. High WBC Infection Risk
