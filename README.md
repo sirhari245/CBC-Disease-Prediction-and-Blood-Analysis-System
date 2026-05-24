@@ -5,17 +5,17 @@ identify possible abnormal blood conditions based on standard medical ranges. Th
 This project aims to simplify the process of CBC report evaluation by reducing manual observation and providing quick preliminary analysis of blood conditions such as anemia, infection risk, low platelet count, and abnormal blood parameter levels. It also helps in maintaining patient report records using a database system for future reference and monitoring.
 
 # Technology used:
-1. Python
-2. Flask
-3. HTML
-4. CSS
-5. SQLite
+- Python
+- Flask
+- HTML
+- CSS
+- SQLite
 
 # CBC Parameter Used:
-1. Hemoglobin
-2. White Blood Cell (WBC) Count
-3. Red Blood Cell (RBC) Count
-4. Platelet Count
+- Hemoglobin
+- White Blood Cell (WBC) Count
+- Red Blood Cell (RBC) Count
+- Platelet Count
 
 # Possible Health Conditions Detected:
 - Anemia
