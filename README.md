@@ -11,16 +11,16 @@ This project aims to simplify the process of CBC report evaluation by reducing m
 5. SQLite
 
 # CBC Parameters Used:
-1.Hemoglobin
-2.White Blood Cell (WBC) Count
-3.Red Blood Cell (RBC) Count
-4.Platelet Count
+1. Hemoglobin
+2. White Blood Cell (WBC) Count
+3. Red Blood Cell (RBC) Count
+4. Platelet Count
 
 # Possible Health Conditions Detected:
-1.Possible Anemia
-2.High WBC Infection Risk
-3.Low WBC Count
-4.Low RBC Count
-5.Low Platelet Count
-6.High Platelet Count
-7.Normal Blood Conditions
+1. Possible Anemia
+2. High WBC Infection Risk
+3. Low WBC Count
+4. Low RBC Count
+5. Low Platelet Count
+6. High Platelet Count
+7. Normal Blood Conditions
